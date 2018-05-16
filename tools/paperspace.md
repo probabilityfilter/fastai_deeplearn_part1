@@ -5,10 +5,18 @@ These notes correspond to first 12 minutes of lesson 1 video.
 ## About
 * Paperspace is a **GPU** accelerated cloud platform
 * Paperspace login:  https://www.paperspace.com
+<img src="../images/0 open paperspace.JPG" align="center"  height="400" width="650" >   
   * create account
-<img src="../images/1 signup.JPG" align="center"  height="400" width="650" >   
+<img src="../images/1 signup.JPG" align="center"  height="400" width="650" > 
+
+<img src="../images/2 create login.JPG" align="center"  height="400" width="650" > 
   * :key: save user name and password somewhere where you can find it
+<img src="../images/3 check email.JPG" align="center"  height="400" width="650" > 
+
   * click on confirmation email to activate account
+<img src="../images/4 click to confirm.JPG" align="center"  height="400" width="650" > 
+<img src="../images/5 sign in.JPG" align="center"  height="400" width="650" > 
+
 * Paperspace runs on their own machines (unlike Crestle, which runs on top of AWS)
 
 ## Summary of Charges
@@ -28,9 +36,11 @@ Note:  There is a **$15 credit code you can use: `FASTAI6GKZ`**.  **This code is
 ## Part I:  Creating a Machine
 ### Step 1:  Where to start
 - click on this link:  https://www.paperspace.com/console/machines
+<img src="../images/6 signed in.JPG" align="center"  height="400" width="650" > 
 
 ### Step 2:  Create a new machine
 - select green button `New Machine`
+<img src="../images/7 new machine.JPG" align="center"  height="400" width="650" > 
 
 ### Step 3:  Choose region
 - pick a data center
