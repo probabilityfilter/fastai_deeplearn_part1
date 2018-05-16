@@ -5,16 +5,19 @@ These notes correspond to first 12 minutes of lesson 1 video.
 ## About
 * Paperspace is a **GPU** accelerated cloud platform
 * Paperspace login:  https://www.paperspace.com
-<img src="../images/0 open paperspace.JPG" align="center"  height="400" width="650" >   
+<img src="../images/0 open paperspace.JPG" align="center"  height="400" width="400" >   
+------------------------------------------------------------------
   * create account
-<img src="../images/1 signup.JPG" align="center"  height="400" width="650" > 
+<img src="../images/1 signup.JPG" align="center"  height="300" width="300" > 
 
 <img src="../images/2 create login.JPG" align="center"  height="400" width="650" > 
   * :key: save user name and password somewhere where you can find it
+  ------------------------------------------------------------------
 <img src="../images/3 check email.JPG" align="center"  height="400" width="650" > 
 
   * click on confirmation email to activate account
 <img src="../images/4 click to confirm.JPG" align="center"  height="400" width="650" > 
+------------------------------------------------------------------
 <img src="../images/5 sign in.JPG" align="center"  height="400" width="650" > 
 
 * Paperspace runs on their own machines (unlike Crestle, which runs on top of AWS)
