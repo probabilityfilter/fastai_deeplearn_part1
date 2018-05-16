@@ -99,6 +99,7 @@ Note:  There is a **$15 credit code you can use: `FASTAI6GKZ`**.  **This code is
 <img src="../images/16 provisioning.JPG" align="center"  height="300" width="450" > 
 
 <img src="../images/17 ready.JPG" align="center"  height="300" width="450" > 
+
 - It will take several hours (4-5 hrs) to receive the confirmation email from Paperspace due to high demand
 - you'll receive an email with subject *"Your new Paperspace Linux machine is ready"*
   - a temporary password will be included in that email
