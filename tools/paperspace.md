@@ -18,11 +18,11 @@ These notes correspond to first 12 minutes of lesson 1 video.
 <img src="../images/3 check email.JPG" align="center"  height="300" width="450" > 
 
   * click on confirmation email to activate account
+  
 <kbd><img src="../images/4 click to confirm.JPG" align="center"  height="300" width="450" border="25"> </kbd>
 ------------------------------------------------------------------
-<table><tr><td>
 <img src="../images/5 sign in.JPG" align="center"  height="300" width="450" > 
-</td></tr></table>
+
 * Paperspace runs on their own machines (unlike Crestle, which runs on top of AWS)
 
 ## Summary of Charges
