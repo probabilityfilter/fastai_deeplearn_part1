@@ -6,7 +6,7 @@ These notes correspond to first 12 minutes of lesson 1 video.
 * Paperspace is a **GPU** accelerated cloud platform
 * Paperspace login:  https://www.paperspace.com
 .border {   border-width: 25px;   border-color: red;   border-style: solid; } 
-<img src="../images/0 open paperspace.JPG" align="center"  height="150" width="850" >   
+<kbd><img src="../images/0 open paperspace.JPG" align="center"  height="150" width="850" > </kbd>
 ------------------------------------------------------------------
 
   * create account
