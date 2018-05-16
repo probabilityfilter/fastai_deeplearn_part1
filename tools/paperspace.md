@@ -8,7 +8,7 @@ These notes correspond to first 12 minutes of lesson 1 video.
 .border {   border-width: 25px;   border-color: red;   border-style: solid; } 
 <img src="../images/0 open paperspace.JPG" align="center"  height="150" width="850" >   
 ------------------------------------------------------------------
-******************************************************************
+
   * create account
 <img src="../images/1 signup.JPG" align="center"  height="300" width="450" > 
 
@@ -20,8 +20,8 @@ These notes correspond to first 12 minutes of lesson 1 video.
   * click on confirmation email to activate account
   
 <kbd><img src="../images/4 click to confirm.JPG" align="center"  height="300" width="450" border="25"> </kbd>
-------------------------------------------------------------------
-<img src="../images/5 sign in.JPG" align="center"  height="300" width="450" > 
+
+<kbd><img src="../images/5 sign in.JPG" align="center"  height="300" width="450" > </kbd>
 
 * Paperspace runs on their own machines (unlike Crestle, which runs on top of AWS)
 
