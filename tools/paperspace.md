@@ -7,14 +7,14 @@ These notes correspond to first 12 minutes of lesson 1 video.
 * Paperspace login:  https://www.paperspace.com
 .border {   border-width: 25px;   border-color: red;   border-style: solid; } 
 <kbd><img src="../images/0 open paperspace.JPG" align="center"  height="150" width="850" > </kbd>
-------------------------------------------------------------------
+---
 
   * create account
 <img src="../images/1 signup.JPG" align="center"  height="300" width="450" > 
 
 <img src="../images/2 create login.JPG" align="center"  height="300" width="450" > 
   * :key: save user name and password somewhere where you can find it
-  ------------------------------------------------------------------
+---
 <img src="../images/3 check email.JPG" align="center"  height="300" width="450" > 
 
   * click on confirmation email to activate account
@@ -54,13 +54,14 @@ Note:  There is a **$15 credit code you can use: `FASTAI6GKZ`**.  **This code is
    - West Coast (California)
    - East Coast (New York)
    - Europe
+<img src="../images/8 region.JPG" align="center"  height="300" width="450" > 
 - pick the one closest to you; (for me it is East Coast (NYC));  if a region is unavailable, try another region.  (West Coast may be unavailable for some machines).  
 
 ### Step 4:  Choose template
 - Select `Public Templates`
 - Select icon for `fast.ai`
 
-<img src="../images/paperspace_fastai.png" align="center"  height="400" width="650" >   
+<img src="../images/9 template.JPG" align="center"  height="300" width="450" > 
 
 
 ### Step 5:  Choose machine
@@ -70,23 +71,34 @@ Note:  There is a **$15 credit code you can use: `FASTAI6GKZ`**.  **This code is
 - Machines to choose (whichever you prefer and is available in your region of choice)
   - the **P4000** `$0.40/hr` (cheapest one) 
   - the **P5000** `$0.65/hr`
+<img src="../images/10 GPU.JPG" align="center"  height="300" width="450" > 
 
 ### Step 6:  Choose storage
 - note that you pay for storage as soon as you start the machine up
 - select `250 GB ($7/month)` option; you can also get by with `50 GB ($5/month)` option too
 - storage costs are pro-rated (like compute (or "usage") costs) 
+<img src="../images/11 storage.JPG" align="center"  height="300" width="450" > 
+
+<img src="../images/12 machine count.JPG" align="center"  height="300" width="450" > 
 
 ### Step 7:  Options
 - turn ON `Public IP` (cost is `$3/month`)
 - turn OFF `Auto Snapshot` (to save money on doing back-ups)
+<img src="../images/13 options.JPG" align="center"  height="300" width="450" > 
 
 ### Step 8:  Payment
 - add in promo code
+<img src="../images/15 promo code.JPG" align="center"  height="300" width="450" > 
+
 - add in credit card information (required, even if you have a promo code)
+<img src="../images/14 payment.JPG" align="center"  height="300" width="450" > 
 
 ### Step 9:  Create machine
 - select `Create your Paperspace` box
 - you'll see the new machine "provisioning"
+<img src="../images/16 provisioning.JPG" align="center"  height="300" width="450" > 
+
+<img src="../images/17 ready.JPG" align="center"  height="300" width="450" > 
 - It will take several hours (4-5 hrs) to receive the confirmation email from Paperspace due to high demand
 - you'll receive an email with subject *"Your new Paperspace Linux machine is ready"*
   - a temporary password will be included in that email
