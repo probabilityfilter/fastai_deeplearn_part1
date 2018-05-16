@@ -5,9 +5,9 @@ These notes correspond to first 12 minutes of lesson 1 video.
 ## About
 * Paperspace is a **GPU** accelerated cloud platform
 * Paperspace login:  https://www.paperspace.com
-<img src="../images/0 open paperspace.JPG" align="center"  height="200" width="850" >   
+<img src="../images/0 open paperspace.JPG" align="center"  height="150" width="850" >   
 ------------------------------------------------------------------
-
+******************************************************************
   * create account
 <img src="../images/1 signup.JPG" align="center"  height="300" width="450" > 
 
@@ -17,7 +17,7 @@ These notes correspond to first 12 minutes of lesson 1 video.
 <img src="../images/3 check email.JPG" align="center"  height="300" width="450" > 
 
   * click on confirmation email to activate account
-<img src="../images/4 click to confirm.JPG" align="center"  height="300" width="450" > 
+<img src="../images/4 click to confirm.JPG" align="center"  height="300" width="450" border="25"> 
 ------------------------------------------------------------------
 <img src="../images/5 sign in.JPG" align="center"  height="300" width="450" > 
 
