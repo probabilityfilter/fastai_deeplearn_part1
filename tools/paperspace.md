@@ -14,6 +14,7 @@ These notes correspond to first 12 minutes of lesson 1 video.
 
 <img src="../images/2 create login.JPG" align="center"  height="300" width="450" > 
   * :key: save user name and password somewhere where you can find it
+  
 ---
 <img src="../images/3 check email.JPG" align="center"  height="300" width="450" > 
 
